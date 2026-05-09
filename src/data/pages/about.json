@@ -1,0 +1,132 @@
+{
+  "id": "about-page",
+  "slug": "about",
+  "meta": {
+    "title": "Practice — Atelier Nero",
+    "description": "The practice, method, timeline, and thinking behind Atelier Nero."
+  },
+  "sections": [
+    {
+      "id": "about-text-image-001",
+      "type": "text-image-slab",
+      "data": {
+        "label": "Practice",
+        "eyebrow": "Studio profile",
+        "title": "Architecture as a system of clear decisions",
+        "body": "Atelier Nero was established in Rome in 2014 by architects Elisa Marconi and Davide Serra. The studio works where architecture meets movement, display, and institutional clarity: residences, galleries, cultural interiors, public programs, and signage systems. We prefer exact language, durable materials, and spatial sequences that remain intelligible without explanation.",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1400&q=80",
+          "alt": "Monumental concrete facade with rhythmic openings"
+        },
+        "primaryCta": {
+          "id": "about-cta-001",
+          "label": "See selected projects",
+          "href": "/projects",
+          "variant": "primary"
+        }
+      },
+      "settings": {}
+    },
+    {
+      "id": "about-timeline-002",
+      "type": "timeline-list",
+      "data": {
+        "label": "Timeline",
+        "title": "A practice built through sequential scales",
+        "intro": "The studio has moved from residential interiors to public commissions and exhibition infrastructure without changing its disciplinary core.",
+        "items": [
+          {
+            "id": "about-timeline-item-001",
+            "year": "2014",
+            "title": "Practice founded in Rome",
+            "body": "Initial work focused on residential alterations, artist studios, and bespoke interior systems."
+          },
+          {
+            "id": "about-timeline-item-002",
+            "year": "2018",
+            "title": "First institutional wayfinding commission",
+            "body": "A navigation system for a civic archive introduced the studio to public-facing cultural infrastructure."
+          },
+          {
+            "id": "about-timeline-item-003",
+            "year": "2021",
+            "title": "Exhibition design expands internationally",
+            "body": "Temporary and long-duration exhibitions in Switzerland and Germany extended the studio’s work into logistics, visitor flow, and display architecture."
+          },
+          {
+            "id": "about-timeline-item-004",
+            "year": "2025",
+            "title": "Integrated architecture and signage work",
+            "body": "Current commissions often combine shell architecture, interiors, furnishings, and wayfinding into a single spatial language."
+          }
+        ]
+      },
+      "settings": {}
+    },
+    {
+      "id": "about-manifesto-003",
+      "type": "manifesto-grid",
+      "data": {
+        "label": "Discipline",
+        "title": "How we work",
+        "intro": "We maintain a small, senior-led structure. Drawings remain close to design thinking. Technical detail is developed early, not deferred.",
+        "items": [
+          {
+            "id": "about-manifesto-item-001",
+            "number": "A",
+            "title": "Senior authorship",
+            "body": "Every commission is led directly by the partners and reviewed through iterative drawing, model, and site dialogue."
+          },
+          {
+            "id": "about-manifesto-item-002",
+            "number": "B",
+            "title": "Hard coordination",
+            "body": "Consultant alignment, technical packages, and material tolerances are treated as design work, not administration."
+          },
+          {
+            "id": "about-manifesto-item-003",
+            "number": "C",
+            "title": "Exact communication",
+            "body": "We use concise documentation, controlled detailing, and clear decision gates to keep projects legible for clients and contractors."
+          },
+          {
+            "id": "about-manifesto-item-004",
+            "number": "D",
+            "title": "Purposeful restraint",
+            "body": "No formal move enters the project unless it clarifies use, hierarchy, or experience."
+          }
+        ]
+      },
+      "settings": {}
+    },
+    {
+      "id": "about-quote-wall-004",
+      "type": "quote-wall",
+      "data": {
+        "label": "Recognition",
+        "title": "Trusted by clients who value clarity over spectacle",
+        "items": [
+          {
+            "id": "about-quote-item-001",
+            "quote": "Their process was as rigorous as their architecture.",
+            "author": "Claudia Ferretti",
+            "role": "Head of Real Estate, private client"
+          },
+          {
+            "id": "about-quote-item-002",
+            "quote": "Nothing was arbitrary. Every junction had a reason.",
+            "author": "Luca Donati",
+            "role": "Project engineer"
+          },
+          {
+            "id": "about-quote-item-003",
+            "quote": "They brought museum-level control to a civic brief.",
+            "author": "Nora Weiss",
+            "role": "Cultural programme director"
+          }
+        ]
+      },
+      "settings": {}
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "contact-page",
+  "slug": "contact",
+  "meta": {
+    "title": "Contact — Atelier Nero",
+    "description": "Contact Atelier Nero for architecture, exhibition design, interiors, and wayfinding commissions."
+  },
+  "sections": [
+    {
+      "id": "contact-text-image-001",
+      "type": "text-image-slab",
+      "data": {
+        "label": "Contact",
+        "eyebrow": "New commissions",
+        "title": "Bring context, drawings, and intent",
+        "body": "The strongest first conversations are specific. Share the location, programme, constraints, timeline, and the level of architectural ambition expected from the project. We can then determine fit, structure, and scope.",
+        "image": {
+          "url": "/assets/images/1775890294078-signup-hero-olon-graded_4_.png",
+          "alt": "1775890294078-signup-hero-olon-graded_4_.png"
+        },
+        "primaryCta": {
+          "id": "contact-page-cta-001",
+          "label": "Email the studio",
+          "href": "mailto:studio@ateliernero.it",
+          "variant": "primary"
+        }
+      },
+      "settings": {}
+    },
+    {
+      "id": "contact-contact-strip-002",
+      "type": "contact-strip",
+      "data": {
+        "label": "Coordinates",
+        "title": "Rome studio, Milan meetings, international collaboration",
+        "description": "For private commissions, cultural projects, and institutional enquiries, contact the studio directly. Site visits and briefing sessions are arranged by appointment.",
+        "details": [
+          {
+            "id": "contact-detail-001",
+            "label": "Studio",
+            "value": "Via del Porto 18, 00154 Rome"
+          },
+          {
+            "id": "contact-detail-002",
+            "label": "Phone",
+            "value": "+39 06 9485 2210"
+          },
+          {
+            "id": "contact-detail-003",
+            "label": "Email",
+            "value": "studio@ateliernero.it"
+          }
+        ],
+        "primaryCta": {
+          "id": "contact-page-cta-002",
+          "label": "Request an appointment",
+          "href": "mailto:studio@ateliernero.it?subject=Project%20Enquiry",
+          "variant": "primary"
+        }
+      },
+      "settings": {}
+    },
+    {
+      "id": "contact-faq-003",
+      "type": "faq-section",
+      "data": {
+        "label": "Practicalities",
+        "title": "Before we begin",
+        "intro": "Useful answers for clients preparing an architectural or cultural commission.",
+        "items": [
+          {
+            "id": "contact-faq-item-001",
+            "question": "What should we send in a first email?",
+            "answer": "A short brief, address, photographs, drawings if available, target budget range, and intended timetable."
+          },
+          {
+            "id": "contact-faq-item-002",
+            "question": "Do you work outside Italy?",
+            "answer": "Yes. We collaborate internationally for exhibition, signage, and interior commissions, and selectively for architecture."
+          },
+          {
+            "id": "contact-faq-item-003",
+            "question": "Can you review an existing concept?",
+            "answer": "Yes. We often enter at strategy or concept review stage to refine order, circulation, and architectural hierarchy."
+          }
+        ]
+      },
+      "settings": {}
+    },
+    {
+      "id": "contact-quote-wall-004",
+      "type": "quote-wall",
+      "data": {
+        "label": "Approach",
+        "title": "We prefer precise questions and serious briefs",
+        "items": [
+          {
+            "id": "contact-quote-item-001",
+            "quote": "Clarity at the beginning saves months later.",
+            "author": "Elisa Marconi",
+            "role": "Co-founder"
+          },
+          {
+            "id": "contact-quote-item-002",
+            "quote": "A disciplined brief is already part of the architecture.",
+            "author": "Davide Serra",
+            "role": "Co-founder"
+          },
+          {
+            "id": "contact-quote-item-003",
+            "quote": "We look for projects where form must answer to use.",
+            "author": "Atelier Nero",
+            "role": "Studio principle"
+          }
+        ]
+      },
+      "settings": {}
+    }
+  ]
+}

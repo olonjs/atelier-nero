@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wsl ls *)",
+      "Bash(ls \"\\\\\\\\\\\\\\\\wsl.localhost\\\\\\\\ubuntu\\\\\\\\home\\\\\\\\dev\\\\\\\\temp\\\\\\\\YDEMO\\\\\\\\plex\\\\\\\\src\\\\\\\\components\\\\\\\\ui\\\\\\\\\")",
+      "Bash(cd \"\\\\\\\\wsl.localhost\\\\ubuntu\\\\home\\\\dev\\\\temp\\\\YDEMO\\\\plex\")",
+      "Bash(npm run *)",
+      "Bash(cd ~/temp/YDEMO/plex && npm run build 2>&1)"
+    ]
+  }
+}

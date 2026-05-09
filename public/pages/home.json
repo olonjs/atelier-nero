@@ -1,0 +1,187 @@
+{
+  "id": "home-page",
+  "slug": "home",
+  "meta": {
+    "title": "Atelier Nero — Architecture, Exhibition Systems, Spatial Direction",
+    "description": "A radical architecture and exhibition design practice working with cultural institutions, private clients, and civic commissions."
+  },
+  "sections": [
+    {
+      "id": "home-monumental-hero-001",
+      "type": "monumental-hero",
+      "data": {
+        "label": "Architecture / Exhibition / Signage",
+        "title": "Exacting\nspace",
+        "titleHighlight": "Buildings, interiors, and cultural systems",
+        "description": "Atelier Nero designs structures, rooms, routes, and visual orders with a severe modernist discipline. We work across architecture, exhibition design, interiors, and wayfinding, producing spaces that remain clear under pressure and legible over time.",
+        "primaryCta": {
+          "id": "home-hero-cta-1",
+          "label": "View projects",
+          "href": "/projects",
+          "variant": "primary"
+        },
+        "secondaryCta": {
+          "id": "home-hero-cta-2",
+          "label": "Read the practice",
+          "href": "/about",
+          "variant": "secondary"
+        },
+        "image": {
+          "url": "/assets/images/1775918222456-brutal.jpg",
+          "alt": "brutal.jpg"
+        },
+        "note": "Founded 2014 — Rome, Milan, international"
+      },
+      "settings": {}
+    },
+    {
+      "id": "home-manifesto-grid-002",
+      "type": "manifesto-grid",
+      "data": {
+        "label": "Method",
+        "title": "Principles before style",
+        "intro": "The studio rejects decorative noise, generic hospitality language, and trend-led softness. Each commission begins with order, sequence, and the structural dignity of the brief.",
+        "items": [
+          {
+            "id": "manifesto-item-001",
+            "number": "01",
+            "title": "Structure first",
+            "body": "We begin from circulation, hierarchy, load, light, and adjacency. Form arrives through constructional intelligence, not styling."
+          },
+          {
+            "id": "manifesto-item-002",
+            "number": "02",
+            "title": "Material restraint",
+            "body": "Concrete, limestone, steel, lacquer, felt, glass, and timber are used with precision and without excess gesture."
+          },
+          {
+            "id": "manifesto-item-003",
+            "number": "03",
+            "title": "Cultural legibility",
+            "body": "Museums, galleries, and public-facing projects must orient the visitor instantly. Wayfinding is architecture, not an afterthought."
+          },
+          {
+            "id": "manifesto-item-004",
+            "number": "04",
+            "title": "Measured atmosphere",
+            "body": "Mood emerges from ratio, shadow, acoustic control, threshold, and pacing. Calm comes from order, not decoration."
+          }
+        ]
+      },
+      "settings": {}
+    },
+    {
+      "id": "home-project-index-003",
+      "type": "project-index",
+      "data": {
+        "label": "Selected work",
+        "title": "Recent commissions",
+        "intro": "Private residences, exhibition systems, libraries, and institutional interiors delivered with consistent spatial discipline and precise technical coordination.",
+        "items": [
+          {
+            "id": "project-home-001",
+            "year": "2025",
+            "title": "Casa Ovest",
+            "category": "Residence",
+            "location": "Milan",
+            "body": "A courtyard house reworked through axial openings, graphite steel joinery, and a severe sequence of compressed and expanded rooms.",
+            "href": "/projects",
+            "image": {
+              "url": "/assets/images/1775918306349-aea4c53c-996b-4069-a78c-e55edf23d2cf.png",
+              "alt": "1775918306349-aea4c53c-996b-4069-a78c-e55edf23d2cf.png"
+            }
+          },
+          {
+            "id": "project-home-002",
+            "year": "2024",
+            "title": "Atlas Gallery Routing System",
+            "category": "Wayfinding",
+            "location": "Basel",
+            "body": "A complete exhibition navigation language spanning facade entry, ticketing, floor graphics, room codes, and archive indexing.",
+            "href": "/projects",
+            "image": {
+              "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+              "alt": "Modern gallery corridor with directional sightlines and white walls"
+            }
+          },
+          {
+            "id": "project-home-003",
+            "year": "2023",
+            "title": "Archivio Civico Reading Hall",
+            "category": "Public interior",
+            "location": "Turin",
+            "body": "Reading tables, acoustic partitions, shelving order, and a new luminous ceiling designed as a disciplined study landscape.",
+            "href": "/projects",
+            "image": {
+              "url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80",
+              "alt": "Long institutional interior with tables and controlled ceiling light"
+            }
+          }
+        ]
+      },
+      "settings": {}
+    },
+    {
+      "id": "home-quote-wall-004",
+      "type": "quote-wall",
+      "data": {
+        "label": "Selected voices",
+        "title": "The work is quiet in tone and uncompromising in order",
+        "items": [
+          {
+            "id": "quote-home-001",
+            "quote": "They gave the building a logic we could actually operate.",
+            "author": "Marta Biagini",
+            "role": "Director, Archivio Civico"
+          },
+          {
+            "id": "quote-home-002",
+            "quote": "The exhibition felt inevitable, as if the route had always been there.",
+            "author": "Jonas Feld",
+            "role": "Curator, Atlas Gallery"
+          },
+          {
+            "id": "quote-home-003",
+            "quote": "Every detail sharpened the architecture instead of softening it.",
+            "author": "Riccardo Livi",
+            "role": "Private client"
+          }
+        ]
+      },
+      "settings": {}
+    },
+    {
+      "id": "home-contact-strip-005",
+      "type": "contact-strip",
+      "data": {
+        "label": "Commissions",
+        "title": "Bring us a brief with difficulty, scale, and consequence",
+        "description": "We engage with homes, cultural buildings, institutional interiors, exhibition systems, and wayfinding frameworks. Early stage strategy, concept design, detailed development, and consultant coordination are handled within one rigorous process.",
+        "details": [
+          {
+            "id": "contact-detail-home-001",
+            "label": "New Business",
+            "value": "studio@ateliernero.it"
+          },
+          {
+            "id": "contact-detail-home-002",
+            "label": "Press",
+            "value": "press@ateliernero.it"
+          },
+          {
+            "id": "contact-detail-home-003",
+            "label": "Locations",
+            "value": "Rome / Milan"
+          }
+        ],
+        "primaryCta": {
+          "id": "contact-strip-cta-home-001",
+          "label": "Start a conversation",
+          "href": "/contact",
+          "variant": "primary"
+        }
+      },
+      "settings": {}
+    }
+  ]
+}
