@@ -1,130 +1,128 @@
 {
   "id": "projects-page",
-  "slug": "projects",
   "meta": {
     "title": "Projects — Atelier Nero",
     "description": "Selected projects across architecture, interiors, exhibitions, and wayfinding."
   },
+  "slug": "projects",
   "sections": [
     {
       "id": "projects-text-image-001",
-      "type": "text-image-slab",
       "data": {
-        "label": "Portfolio",
-        "eyebrow": "Selected work",
-        "title": "Buildings, rooms, routes, and graphic orders",
         "body": "Our portfolio moves between durable architecture and temporary systems of display. The same criteria apply in both domains: ratio, sequence, material restraint, and exacting clarity.",
         "image": {
-          "url": "/assets/images/1775918306349-aea4c53c-996b-4069-a78c-e55edf23d2cf.png",
-          "alt": "1775918306349-aea4c53c-996b-4069-a78c-e55edf23d2cf.png"
+          "alt": "1775918306349-aea4c53c-996b-4069-a78c-e55edf23d2cf.png",
+          "url": "/assets/images/1775918306349-aea4c53c-996b-4069-a78c-e55edf23d2cf.png"
         },
+        "label": "Portfolio",
+        "title": "Buildings, rooms, routes, and graphic orders",
+        "eyebrow": "Selected work",
         "primaryCta": {
           "id": "projects-cta-001",
-          "label": "Request portfolio PDF",
           "href": "/contact",
+          "label": "Request portfolio PDF",
           "variant": "primary"
         }
       },
+      "type": "text-image-slab",
       "settings": {}
     },
     {
       "id": "projects-index-002",
-      "type": "project-index",
       "data": {
-        "label": "Current index",
-        "title": "Eight projects in focus",
         "intro": "A compact survey of domestic, public, and cultural work currently representative of the studio’s direction.",
         "items": [
           {
             "id": "projects-index-item-001",
-            "year": "2025",
-            "title": "Casa Ovest",
-            "category": "Residence",
-            "location": "Milan",
             "body": "A private home organized around a strict courtyard axis, thickened walls, and shadow-led circulation.",
             "href": "/contact",
+            "year": "2025",
             "image": {
-              "url": "https://images.unsplash.com/photo-1519643381401-22c77e60520e?auto=format&fit=crop&w=900&q=80",
-              "alt": "Monochrome interior with concrete and sharp daylight"
-            }
+              "alt": "Monochrome interior with concrete and sharp daylight",
+              "url": "https://images.unsplash.com/photo-1519643381401-22c77e60520e?auto=format&fit=crop&w=900&q=80"
+            },
+            "title": "Casa Ovest",
+            "category": "Residence",
+            "location": "Milan"
           },
           {
             "id": "projects-index-item-002",
-            "year": "2025",
-            "title": "Studio Forma Headquarters",
-            "category": "Workplace interior",
-            "location": "Rome",
             "body": "An office floor recast as a sequence of proportioned work bays, archive walls, and quiet meeting chambers.",
             "href": "/contact",
+            "year": "2025",
             "image": {
-              "url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80",
-              "alt": "Architectural office interior with long tables and controlled grid"
-            }
+              "alt": "Architectural office interior with long tables and controlled grid",
+              "url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80"
+            },
+            "title": "Studio Forma Headquarters",
+            "category": "Workplace interior",
+            "location": "Rome"
           },
           {
             "id": "projects-index-item-003",
-            "year": "2024",
-            "title": "Atlas Gallery Routing System",
-            "category": "Wayfinding",
-            "location": "Basel",
             "body": "A monochrome navigation family for a gallery campus spanning entry, ticketing, rooms, and back-of-house logistics.",
             "href": "/contact",
+            "year": "2024",
             "image": {
-              "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
-              "alt": "Clean gallery hallway with strong alignment"
-            }
+              "alt": "Clean gallery hallway with strong alignment",
+              "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+            },
+            "title": "Atlas Gallery Routing System",
+            "category": "Wayfinding",
+            "location": "Basel"
           },
           {
             "id": "projects-index-item-004",
-            "year": "2024",
-            "title": "Padiglione Uno",
-            "category": "Exhibition architecture",
-            "location": "Venice",
             "body": "A temporary pavilion using folded steel plates, shadow gaps, and disciplined visitor movement.",
             "href": "/contact",
+            "year": "2024",
             "image": {
-              "url": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=900&q=80",
-              "alt": "Exhibition space with concrete stair and hard lines"
-            }
+              "alt": "Exhibition space with concrete stair and hard lines",
+              "url": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=900&q=80"
+            },
+            "title": "Padiglione Uno",
+            "category": "Exhibition architecture",
+            "location": "Venice"
           }
-        ]
+        ],
+        "label": "Current index",
+        "title": "Eight projects in focus"
       },
+      "type": "project-index",
       "settings": {}
     },
     {
       "id": "projects-faq-003",
-      "type": "faq-section",
       "data": {
-        "label": "Commissioning",
-        "title": "Portfolio questions",
         "intro": "A concise guide for prospective clients planning architectural or exhibition work.",
         "items": [
           {
             "id": "projects-faq-item-001",
-            "question": "What scale of project do you accept?",
-            "answer": "We work across interiors, houses, galleries, and cultural infrastructure. The key criterion is not size but the seriousness of the brief and the client’s commitment to architectural discipline."
+            "answer": "We work across interiors, houses, galleries, and cultural infrastructure. The key criterion is not size but the seriousness of the brief and the client’s commitment to architectural discipline.",
+            "question": "What scale of project do you accept?"
           },
           {
             "id": "projects-faq-item-002",
-            "question": "Do you collaborate with local executive teams?",
-            "answer": "Yes. We frequently lead concept and design development while coordinating with local delivery architects, consultants, and fabricators."
+            "answer": "Yes. We frequently lead concept and design development while coordinating with local delivery architects, consultants, and fabricators.",
+            "question": "Do you collaborate with local executive teams?"
           },
           {
             "id": "projects-faq-item-003",
-            "question": "Can signage and spatial identity be integrated from the outset?",
-            "answer": "Yes. We prefer integrated workflows where architecture, graphics, and visitor movement are designed together."
+            "answer": "Yes. We prefer integrated workflows where architecture, graphics, and visitor movement are designed together.",
+            "question": "Can signage and spatial identity be integrated from the outset?"
           }
-        ]
+        ],
+        "label": "Commissioning",
+        "title": "Portfolio questions"
       },
+      "type": "faq-section",
       "settings": {}
     },
     {
       "id": "projects-contact-004",
-      "type": "contact-strip",
       "data": {
         "label": "Access",
         "title": "Request a meeting, portfolio, or project review",
-        "description": "Send us the site, programme, desired schedule, and available drawings. We will respond with scope, fit, and next-step requirements.",
         "details": [
           {
             "id": "projects-contact-detail-001",
@@ -144,11 +142,13 @@
         ],
         "primaryCta": {
           "id": "projects-contact-cta-001",
-          "label": "Contact the studio",
           "href": "/contact",
+          "label": "Contact the studio",
           "variant": "primary"
-        }
+        },
+        "description": "Send us the site, programme, desired schedule, and available drawings. We will respond with scope, fit, and next-step requirements."
       },
+      "type": "contact-strip",
       "settings": {}
     }
   ]
