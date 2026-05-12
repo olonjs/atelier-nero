@@ -1,39 +1,39 @@
 {
-  "header": {
-    "id": "global-header",
-    "type": "header",
-    "data": {
-      "announcement": "Rome / Milan / International commissions",
-      "logoText": "Atelier Nero",
-      "logoHighlight": "Spatial Systems",
-      "menu": {
-        "$ref": "../config/menu.json#/main"
-      }
-    },
-    "settings": {
-      "sticky": true
-    }
-  },
+  "pages": [],
   "footer": {
     "id": "global-footer",
-    "type": "footer",
     "data": {
-      "brandText": "Atelier Nero",
-      "brandHighlight": "Studio",
-      "address": "Via del Porto 18\n00154 Rome\nItaly",
-      "phone": "+39 06 9485 2210",
-      "email": "studio@ateliernero.it",
-      "copyright": "© 2026 Atelier Nero. All rights reserved.",
       "menu": {
         "$ref": "../config/menu.json#/footer"
-      }
+      },
+      "email": "studio@ateliernero.it",
+      "phone": "+39 06 9485 2210",
+      "address": "Via del Porto 18\n00154 Rome\nItaly",
+      "brandText": "Atelier Nero",
+      "copyright": "© 2026 Atelier Nero. All rights reserved.",
+      "brandHighlight": "Studio"
     },
+    "type": "footer",
     "settings": {
       "showLogo": true
     }
   },
+  "header": {
+    "id": "global-header",
+    "data": {
+      "menu": {
+        "$ref": "../config/menu.json#/main"
+      },
+      "logoText": "Atelier Nero",
+      "announcement": "Rome / Milan / International commissions",
+      "logoHighlight": "Spatial Systems"
+    },
+    "type": "header",
+    "settings": {
+      "sticky": true
+    }
+  },
   "identity": {
     "title": "Atelier Nero"
-  },
-  "pages": []
+  }
 }
